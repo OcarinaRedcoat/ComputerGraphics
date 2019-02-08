@@ -1,2 +1,2 @@
 # ComputerGraphics
-2018-2019Computer Graphics IST project
+2018-2019 Computer Graphics  IST Project
